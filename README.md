@@ -1,4 +1,4 @@
-# """Restaurant Review Domain - Phase 3 Week 3 Code Challenge"""
+# """Restaurant Review Domain - Phase III Code Challenge"""
 
 In this project, we will be delving into the realm of restaurant reviews. Within our domain, three key models take center stage: Restaurant, Review, and Customer.
 
@@ -42,11 +42,10 @@ Python
 # """Utilized Packages"""
 SQLAlchemy
 Alembic
-Flask
 
 
 # """Author"""
-Chikealvan (https://github.com/Chikealvan)
+Hadrey (https://github.com/Hadrey)
 
 
 
@@ -57,4 +56,4 @@ This program is distributed under the GNU General Public License, version 3. You
 
 This program is provided without any warranty or guarantee of fitness for a specific purpose. For more details, refer to the GNU General Public License.
 
-If you didn't receive a copy of the GNU General Public License, you can find it here <https://www.gnu.org/licenses/>.# python-p3-wk3-code-challenge-restaurants
+If you didn't receive a copy of the GNU General Public License, you can find it here <https://www.git.org/licenses/>.
